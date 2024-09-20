@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="libs\core-3.3.0.jar" path="libs\javase-3.3.0.jar"/>
+    <classpathentry kind="lib" path="libs/zxing-core-3.3.0.jar"/>
+    <classpathentry kind="lib" path="libs/zxing-javase-3.3.0.jar"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath>
